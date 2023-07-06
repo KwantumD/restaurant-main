@@ -1,5 +1,8 @@
+#README.md
+
 Simple, modern landing page for restaurant
 
-Published via Netlify: https://omnifood813.netlify.app
+Code deployed in Netlify: https://omnifood813.netlify.app
 
-Enjoy!
+
+Happy coding!
